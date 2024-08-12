@@ -1,0 +1,17 @@
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Application.deps.json
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Application.dll
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Application.pdb
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Core.dll
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Infrastructure.dll
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Core.pdb
+D:\api-project\GlassesApp\Application\bin\Release\net7.0\Infrastructure.pdb
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.csproj.AssemblyReference.cache
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.AssemblyInfoInputs.cache
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.AssemblyInfo.cs
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.csproj.CopyComplete
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.dll
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\refint\Application.dll
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\Application.pdb
+D:\api-project\GlassesApp\Application\obj\Release\net7.0\ref\Application.dll

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-04-13T04:56:59.4477668Z;True|2024-04-13T06:18:29.8447909+02:00;True|2024-04-13T01:58:30.2015611+02:00;True|2024-04-12T18:32:45.5030135+02:00;True|2024-04-12T18:28:44.6307363+02:00;True|2024-04-12T18:27:39.9236945+02:00;True|2024-04-12T18:24:51.6541158+02:00;True|2024-04-12T15:03:46.5545863+02:00;True|2024-04-12T14:54:50.2727155+02:00;True|2024-04-12T14:53:12.0356660+02:00;True|2024-04-12T14:47:41.7044828+02:00;True|2024-04-12T14:41:17.9442256+02:00;True|2024-04-12T14:29:40.6213341+02:00;True|2024-04-12T14:25:52.8279486+02:00;True|2024-04-12T14:23:42.0133578+02:00;True|2024-04-12T14:21:49.4971229+02:00;False|2024-04-12T14:04:05.5598178+02:00;False|2024-04-12T14:03:15.5754902+02:00;False|2024-04-12T14:03:05.5236081+02:00;True|2024-04-12T14:01:00.8156863+02:00;True|2024-04-12T13:55:45.7040051+02:00;True|2024-04-12T13:49:01.3589678+02:00;True|2024-04-12T13:44:45.4270418+02:00;True|2024-04-12T13:41:58.3754745+02:00;True|2024-04-12T13:34:52.4818374+02:00;True|2024-04-12T13:18:13.9753358+02:00;False|2024-04-12T13:17:16.6349666+02:00;True|2024-04-12T06:59:17.6020227+02:00;True|2024-04-11T22:20:37.7596191+02:00;True|2024-04-11T18:11:56.5903474+02:00;True|2024-04-11T18:10:05.7139990+02:00;True|2024-04-11T18:07:28.2231404+02:00;False|2024-04-11T18:05:20.3317170+02:00;True|2024-04-11T07:33:10.6969255+02:00;True|2024-04-10T22:49:40.6554201+02:00;True|2024-04-10T21:35:45.0105551+02:00;False|2024-04-10T21:29:08.6636390+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=SQL5106.site4now.net%3bInitial Catalog=db_aa5657_see%3bUser Id=db_aa5657_see_admin%3bPassword=Fki-p%2aYU123</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Redis">
+      <Value>Data Source=SQL5106.site4now.net%3bInitial Catalog=db_aa5657_see%3bUser Id=db_aa5657_see_admin%3bPassword=Fki-p%2aYU123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+D:\api-project\GlassesApp\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\api-project\GlassesApp\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\api-project\GlassesApp\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\api-project\GlassesApp\Presentation\obj\Debug\net7.0\ref\Presentation.dll

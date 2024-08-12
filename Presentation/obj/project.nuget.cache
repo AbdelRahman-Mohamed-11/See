@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCQFlKRF9+sByGphNI8Sx2dvmzULpVYUmASZiorwvsfii5HJqj3XMKfIqqpQj6XcmLqlp0QMg2W+gIb+GrnT5w==",
+  "success": true,
+  "projectFilePath": "D:\\api-project\\GlassesApp\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bodyb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

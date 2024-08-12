@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5022.site4now.net:21/see</_PublishTargetUrl>
+    <History>False|2024-04-10T19:28:19.3212676Z;False|2024-04-10T21:27:26.1551019+02:00;False|2024-04-10T21:21:55.6641962+02:00;False|2024-02-28T21:47:04.6088384+02:00;False|2024-02-28T21:35:53.9296689+02:00;False|2024-02-28T21:31:19.8957461+02:00;False|2024-02-28T21:24:56.7521457+02:00;False|2024-02-28T21:20:57.1063446+02:00;False|2024-02-28T21:19:03.6499102+02:00;False|2024-02-28T21:17:46.0859763+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=SQL5106.site4now.net%3bInitial Catalog=db_aa5657_see%3bUser Id=db_aa5657_see_admin%3bPassword=Fki-p%2aYU123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win9071.site4now.net:21/site1</_PublishTargetUrl>
+    <History>False|2024-07-07T09:26:07.3010556Z;True|2024-06-10T03:15:55.6211781+03:00;False|2024-06-10T03:08:30.9938279+03:00;False|2024-06-10T03:04:29.1448806+03:00;False|2024-06-10T02:39:31.1982849+03:00;False|2024-06-10T02:31:15.2117122+03:00;False|2024-06-10T01:51:38.5268088+03:00;False|2024-05-06T22:26:27.2667146+03:00;False|2024-05-06T20:56:36.2228937+03:00;False|2024-05-06T20:48:59.9173238+03:00;False|2024-05-06T20:21:26.8355864+03:00;False|2024-05-06T20:14:05.9074276+03:00;False|2024-05-06T18:01:03.5615384+03:00;False|2024-05-06T17:49:24.4125419+03:00;False|2024-05-06T16:26:48.3680134+03:00;False|2024-05-06T16:19:02.6730094+03:00;False|2024-05-06T16:15:56.9431268+03:00;False|2024-05-06T16:12:38.4078249+03:00;True|2024-05-04T16:37:47.6290609+03:00;False|2024-05-04T16:32:31.8533781+03:00;False|2024-05-04T16:27:03.7730538+03:00;False|2024-05-04T16:22:03.3049327+03:00;True|2024-05-02T14:04:56.1328335+03:00;False|2024-05-02T14:01:15.2501937+03:00;False|2024-05-02T14:00:59.9951755+03:00;False|2024-05-02T13:42:54.2785352+03:00;False|2024-05-02T13:09:02.7124972+03:00;False|2024-05-02T13:03:41.8185155+03:00;False|2024-05-02T12:59:26.1657980+03:00;True|2024-05-01T21:48:51.1510114+03:00;False|2024-05-01T21:46:12.8061127+03:00;False|2024-05-01T21:43:01.7922665+03:00;False|2024-05-01T21:39:15.9105148+03:00;False|2024-05-01T21:39:05.2507218+03:00;False|2024-05-01T18:57:23.6139243+03:00;False|2024-05-01T18:54:53.3186507+03:00;False|2024-05-01T18:49:31.7456444+03:00;False|2024-05-01T18:45:35.5709794+03:00;False|2024-05-01T18:42:14.7634486+03:00;False|2024-05-01T15:35:49.4995879+03:00;False|2024-05-01T15:35:21.9501299+03:00;False|2024-05-01T14:11:19.7722714+03:00;True|2024-05-01T14:09:32.6604577+03:00;False|2024-05-01T14:07:15.1697784+03:00;True|2024-04-28T16:33:50.9986035+03:00;False|2024-04-28T16:29:26.5044234+03:00;True|2024-04-28T16:17:12.3169948+03:00;False|2024-04-28T16:14:20.1363814+03:00;True|2024-04-28T15:26:56.3607889+03:00;False|2024-04-28T15:24:05.6585247+03:00;True|2024-04-28T15:20:06.3264871+03:00;False|2024-04-28T15:11:49.6395015+03:00;False|2024-04-28T15:06:45.3963310+03:00;False|2024-04-28T15:00:17.6389540+03:00;True|2024-04-28T12:03:38.0525914+03:00;False|2024-04-28T12:00:53.4785437+03:00;False|2024-04-28T11:58:11.7740350+03:00;True|2024-04-28T11:55:16.8504585+03:00;False|2024-04-28T11:52:54.7621656+03:00;True|2024-04-28T11:46:41.5294763+03:00;False|2024-04-28T11:42:36.3636285+03:00;True|2024-04-26T14:58:59.3402464+03:00;False|2024-04-26T14:51:47.4786698+03:00;False|2024-04-26T14:37:15.2456126+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Application.dll">
+      <publishTime>06/12/2024 19:06:40</publishTime>
+    </File>
+    <File Include="Application.pdb">
+      <publishTime>06/12/2024 19:06:40</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/27/2023 16:08:40</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/11/2024 15:33:48</publishTime>
+    </File>
+    <File Include="Ardalis.GuardClauses.dll">
+      <publishTime>08/01/2023 21:45:54</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>01/16/2023 17:41:56</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>04/09/2023 07:58:02</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>06/30/2022 21:28:36</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>09/19/2022 22:31:34</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>10/19/2021 13:53:34</publishTime>
+    </File>
+    <File Include="Core.dll">
+      <publishTime>06/12/2024 21:41:49</publishTime>
+    </File>
+    <File Include="Core.pdb">
+      <publishTime>06/12/2024 21:41:49</publishTime>
+    </File>
+    <File Include="CorePush.dll">
+      <publishTime>07/04/2022 08:42:36</publishTime>
+    </File>
+    <File Include="dotAPNS.dll">
+      <publishTime>03/02/2024 22:17:10</publishTime>
+    </File>
+    <File Include="Flurl.dll">
+      <publishTime>12/20/2022 21:31:50</publishTime>
+    </File>
+    <File Include="FuzzySharp.dll">
+      <publishTime>06/26/2020 06:01:16</publishTime>
+    </File>
+    <File Include="GlassesApp.deps.json">
+      <publishTime>06/12/2024 21:44:34</publishTime>
+    </File>
+    <File Include="GlassesApp.dll">
+      <publishTime>06/12/2024 21:44:19</publishTime>
+    </File>
+    <File Include="GlassesApp.exe">
+      <publishTime>06/12/2024 21:44:20</publishTime>
+    </File>
+    <File Include="GlassesApp.pdb">
+      <publishTime>06/12/2024 21:44:19</publishTime>
+    </File>
+    <File Include="GlassesApp.runtimeconfig.json">
+      <publishTime>06/11/2024 14:39:18</publishTime>
+    </File>
+    <File Include="Google.Protobuf.dll">
+      <publishTime>12/15/2022 13:18:30</publishTime>
+    </File>
+    <File Include="Infrastructure.dll">
+      <publishTime>06/12/2024 19:06:38</publishTime>
+    </File>
+    <File Include="Infrastructure.pdb">
+      <publishTime>06/12/2024 19:06:38</publishTime>
+    </File>
+    <File Include="JetBrains.Annotations.dll">
+      <publishTime>04/18/2022 18:00:18</publishTime>
+    </File>
+    <File Include="MethodBoundaryAspect.dll">
+      <publishTime>07/09/2023 22:22:42</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.Facebook.dll">
+      <publishTime>12/01/2023 20:46:46</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>10/24/2023 00:35:00</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Connections.Abstractions.dll">
+      <publishTime>11/01/2023 03:07:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>11/01/2023 03:06:38</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>11/01/2023 03:07:36</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Http.Connections.Client.dll">
+      <publishTime>11/01/2023 03:08:10</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Http.Connections.Common.dll">
+      <publishTime>11/01/2023 03:07:58</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>10/24/2023 00:34:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>10/24/2023 00:33:10</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>10/24/2023 00:35:42</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>05/24/2023 23:59:58</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SignalR.Client.Core.dll">
+      <publishTime>11/01/2023 03:08:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SignalR.Client.dll">
+      <publishTime>11/01/2023 03:08:20</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SignalR.Common.dll">
+      <publishTime>11/01/2023 03:07:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SignalR.Protocols.Json.dll">
+      <publishTime>11/01/2023 03:08:12</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/31/2023 16:58:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.TimeProvider.dll">
+      <publishTime>10/31/2023 17:02:00</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:28:24</publishTime>
+    </File>
+    <File Include="Microsoft.Data.Sqlite.dll">
+      <publishTime>10/19/2022 04:08:38</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>10/23/2023 21:27:42</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>10/23/2023 21:27:58</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>10/23/2023 21:28:08</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <publishTime>10/19/2022 04:08:40</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>10/23/2023 21:28:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Abstractions.dll">
+      <publishTime>10/31/2023 17:00:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/31/2023 17:00:20</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/31/2023 17:00:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>10/31/2023 17:00:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>10/18/2022 18:15:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Diagnostics.Abstractions.dll">
+      <publishTime>10/31/2023 17:09:52</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Features.dll">
+      <publishTime>11/01/2023 03:07:32</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>10/31/2023 17:04:02</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Hosting.Abstractions.dll">
+      <publishTime>10/31/2023 17:10:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Http.Polly.dll">
+      <publishTime>09/27/2022 03:34:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Core.dll">
+      <publishTime>11/01/2023 03:08:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Stores.dll">
+      <publishTime>11/01/2023 03:08:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>10/31/2023 17:01:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>10/31/2023 17:02:32</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/31/2023 17:02:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/31/2023 17:00:14</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>10/03/2022 19:40:38</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>11/20/2021 00:02:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>10/17/2023 05:21:10</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/17/2023 04:53:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/17/2023 04:55:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/13/2022 21:24:18</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/13/2022 21:34:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/17/2023 05:01:54</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/26/2022 14:32:38</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 19:19:08</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/28/2018 01:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 09:09:54</publishTime>
+    </File>
+    <File Include="OneOf.dll">
+      <publishTime>09/07/2023 12:04:42</publishTime>
+    </File>
+    <File Include="Pipelines.Sockets.Unofficial.dll">
+      <publishTime>05/04/2023 17:36:38</publishTime>
+    </File>
+    <File Include="Polly.dll">
+      <publishTime>04/11/2021 18:29:20</publishTime>
+    </File>
+    <File Include="Polly.Extensions.Http.dll">
+      <publishTime>03/31/2019 17:06:44</publishTime>
+    </File>
+    <File Include="Protobuf.Text.dll">
+      <publishTime>10/10/2023 15:16:12</publishTime>
+    </File>
+    <File Include="Python.Runtime.dll">
+      <publishTime>10/11/2023 10:15:20</publishTime>
+    </File>
+    <File Include="Razorvine.Pickle.dll">
+      <publishTime>05/24/2023 22:03:32</publishTime>
+    </File>
+    <File Include="runtimes/alpine-arm/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/alpine-arm64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/alpine-x64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll">
+      <publishTime>10/31/2023 17:00:26</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-armel/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-mips64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-musl-arm/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-musl-arm64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-musl-x64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-s390x/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-x64/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/linux-x86/native/libe_sqlite3.so">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/maccatalyst-x64/native/libe_sqlite3.dylib">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/osx-arm64/native/libe_sqlite3.dylib">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/osx-x64/native/libe_sqlite3.dylib">
+      <publishTime>09/18/2022 21:20:42</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:28:24</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/e_sqlite3.dll">
+      <publishTime>09/18/2022 21:20:44</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/e_sqlite3.dll">
+      <publishTime>09/18/2022 21:20:44</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/e_sqlite3.dll">
+      <publishTime>09/18/2022 21:20:44</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/e_sqlite3.dll">
+      <publishTime>09/18/2022 21:20:44</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:27:58</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll">
+      <publishTime>10/31/2023 17:00:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll">
+      <publishTime>10/31/2023 16:59:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Runtime.Caching.dll">
+      <publishTime>10/31/2023 17:07:54</publishTime>
+    </File>
+    <File Include="SendGrid.dll">
+      <publishTime>08/10/2022 20:42:06</publishTime>
+    </File>
+    <File Include="Serilog.dll">
+      <publishTime>09/10/2020 04:20:18</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.dll">
+      <publishTime>11/01/2021 23:38:50</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.File.dll">
+      <publishTime>06/22/2022 02:04:48</publishTime>
+    </File>
+    <File Include="Serilog.Formatting.Compact.dll">
+      <publishTime>10/17/2019 07:18:46</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Async.dll">
+      <publishTime>06/25/2021 10:05:08</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Console.dll">
+      <publishTime>09/06/2022 02:58:44</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.File.dll">
+      <publishTime>01/03/2017 04:29:38</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.RollingFile.dll">
+      <publishTime>01/03/2017 05:05:26</publishTime>
+    </File>
+    <File Include="SixLabors.ImageSharp.dll">
+      <publishTime>01/01/2024 05:46:38</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.batteries_v2.dll">
+      <publishTime>09/18/2022 21:28:54</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.core.dll">
+      <publishTime>09/18/2022 21:26:48</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.provider.e_sqlite3.dll">
+      <publishTime>09/18/2022 21:27:04</publishTime>
+    </File>
+    <File Include="StackExchange.Redis.dll">
+      <publishTime>10/31/2023 16:53:02</publishTime>
+    </File>
+    <File Include="StarkbankEcdsa.dll">
+      <publishTime>11/09/2021 23:27:58</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 08:48:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 08:48:26</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 08:49:02</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>10/31/2023 17:01:34</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>10/31/2023 17:09:40</publishTime>
+    </File>
+    <File Include="System.Diagnostics.EventLog.dll">
+      <publishTime>10/31/2023 17:01:00</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/17/2023 04:52:14</publishTime>
+    </File>
+    <File Include="System.IO.Pipelines.dll">
+      <publishTime>10/31/2023 17:02:42</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 18:45:54</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>10/31/2023 17:06:26</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/31/2023 17:00:48</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>05/15/2018 15:29:40</publishTime>
+    </File>
+    <File Include="System.Text.Encodings.Web.dll">
+      <publishTime>10/31/2023 17:00:24</publishTime>
+    </File>
+    <File Include="System.Text.Json.dll">
+      <publishTime>10/31/2023 17:02:14</publishTime>
+    </File>
+    <File Include="System.Threading.Channels.dll">
+      <publishTime>10/31/2023 17:01:54</publishTime>
+    </File>
+    <File Include="Tensorflow.Binding.dll">
+      <publishTime>11/05/2023 19:20:38</publishTime>
+    </File>
+    <File Include="TimeZoneConverter.dll">
+      <publishTime>02/12/2023 22:28:24</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/12/2024 21:44:35</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/000717e0-977f-4b14-8ba6-4bb9ed57e83e/ea1a0395-5a14-47bf-b9c5-79df0be1be2e_30.png">
+      <publishTime>04/13/2024 06:50:00</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/09e7b97c-344e-444a-96b5-c6374d172af8/84c64c07-2fc3-4232-adc2-0a5e16788941_2 %281%29.png">
+      <publishTime>04/18/2024 19:58:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/09e7b97c-344e-444a-96b5-c6374d172af8/937f66cd-053f-405b-871a-bdae1ae0a57f_2%282%29.png">
+      <publishTime>04/18/2024 19:58:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/09e7b97c-344e-444a-96b5-c6374d172af8/e48ef95b-df25-458c-8968-45b1f92a8b2b_2%283%29.png">
+      <publishTime>04/18/2024 19:58:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/21ff4b1c-f858-49bc-9b9f-f1f6e8692a05/772107a5-e311-44a5-acb8-880bd2da0c07_images.png">
+      <publishTime>02/16/2024 21:23:23</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/41da2a58-ea01-4034-9af0-1452da4a3e64/dc5b1716-3f05-463f-82e6-b7da278d3b24_download.png">
+      <publishTime>02/16/2024 21:17:43</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/430ffe8f-fcc6-4b42-93cd-883a09e6a8b6/823a082f-b609-48ff-b01e-6cfadb65e4ae_download.png">
+      <publishTime>02/16/2024 01:39:30</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/46e8c61e-4122-432a-b656-ad6bde9523a2/ce250c14-0c88-4d6a-8cad-e9e8d156c899_glass7 %281%29.png">
+      <publishTime>04/17/2024 04:06:23</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/4d7a5d46-177e-4f20-a1dc-a597ae483171/0eb0e214-f45d-47ee-b3aa-6db5086679a3_images.png">
+      <publishTime>02/16/2024 21:21:09</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/5d653a99-859c-4c5c-b486-56a7bb896429/bab39109-22d0-4b06-9575-a7c95138c83d_glass16.png">
+      <publishTime>04/13/2024 06:51:59</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/738fc3da-8c2f-4ba1-be32-478f236753ee/54bdb23a-75e1-4cb3-96b0-254b468560f7_2 %281%29.png">
+      <publishTime>04/18/2024 19:54:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/738fc3da-8c2f-4ba1-be32-478f236753ee/8b908f40-b5ab-4efe-b773-59ac8bb1579b_2%282%29.png">
+      <publishTime>04/18/2024 19:54:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/738fc3da-8c2f-4ba1-be32-478f236753ee/de32f8ed-6c73-4a0b-99b8-01d82aa00bee_2%283%29.png">
+      <publishTime>04/18/2024 19:54:08</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/7d0132ab-1efa-4a19-9417-192c6f1797bf/a4bf1273-62bd-46db-8a38-962d6ef5307b_download.png">
+      <publishTime>02/15/2024 00:37:54</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/8cc6dba2-bfc7-431b-9901-f9893c6b45dc/597ffe7c-9fb0-483d-a6a4-461788a5c35d_download.png">
+      <publishTime>02/16/2024 01:35:55</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/97ab6298-b2cd-4c9a-a021-861c09180487/f3380d79-9034-4dcf-bf29-9af0a40600ab_7.png">
+      <publishTime>04/13/2024 06:55:34</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/994d6d85-a532-4e21-955d-d74f526c6b62/71cf276b-404b-41f5-ac01-a5b5735fdf12_2%282%29.png">
+      <publishTime>04/18/2024 19:55:25</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/994d6d85-a532-4e21-955d-d74f526c6b62/ebe3434a-41ca-425f-94fc-cccfea5cd300_2%283%29.png">
+      <publishTime>04/18/2024 19:55:25</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/994d6d85-a532-4e21-955d-d74f526c6b62/f43f7b89-7fce-446a-b784-34b341ae95a9_2 %281%29.png">
+      <publishTime>04/18/2024 19:55:25</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/b2326c9a-37ee-4212-9423-7f6c336e2252/0572f55b-3d16-4294-be0c-f69bf28f5f35_download.png">
+      <publishTime>02/16/2024 01:42:01</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/c5361a8d-f758-4eb0-9e11-0da5d50d15da/d556e5b1-49df-4284-bb85-76aa35804c1e_download.png">
+      <publishTime>02/14/2024 23:37:57</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/cc9b0ec6-6a7e-489b-b709-d2b8b39efdb7/9cf66519-d234-4386-b94e-e1946ea2a5fd_download.png">
+      <publishTime>02/15/2024 00:35:18</publishTime>
+    </File>
+    <File Include="wwwroot/managersProductsPhotos/2338e4f0-ad0c-47ad-611e-08dc2d09898a/e7dae77f-a281-4273-bf8c-f60c3156a158/ec7e128a-dc10-4b6d-bc80-83f643b20f0a_download.png">
+      <publishTime>02/15/2024 00:38:33</publishTime>
+    </File>
+    <File Include="wwwroot/userphotos/3d679b60-94c3-4b69-8fce-9fceed5b4627_image.jpg">
+      <publishTime>02/06/2024 23:44:23</publishTime>
+    </File>
+    <File Include="wwwroot/userphotos/f64eef07-5b0d-4a95-c417-08dc59e4872c/e6f674df-91bc-4594-b13e-5b0114b6c267_78d2e378-404c-4fd0-abd1-ad53cb99c866.jpeg">
+      <publishTime>04/11/2024 07:18:39</publishTime>
+    </File>
+    <File Include="Xdot.Paymob.CashIn.DependencyInjection.dll">
+      <publishTime>10/25/2023 10:37:12</publishTime>
+    </File>
+    <File Include="Xdot.Paymob.CashIn.dll">
+      <publishTime>10/25/2023 10:37:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
